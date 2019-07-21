@@ -4,6 +4,7 @@ node_js:
 script:
   - npm install vuepress
   - vuepress build
+  - echo "docs.yunload.org" >> .vuepress/dist/CNAME
 deploy:
   provider: pages
   skip-cleanup: true
