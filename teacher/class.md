@@ -24,4 +24,6 @@ YunLoad 提供通过 Excel 自动录入班级成员的功能，目前此功能�
 
 ![](../images/teacher_class_members_auto_import.png)
 
-**此功能目前还在测试中，如果遇到导入的问题请尝试手动录入。**
+::: warning
+此功能目前还在测试中，如果遇到导入的问题请尝试手动录入。
+:::
