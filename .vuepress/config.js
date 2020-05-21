@@ -3,7 +3,7 @@ module.exports = {
   description: 'YunLoad 的官方文档库',
   base: "/",
   themeConfig: {
-    repo: '/YunLoad/Docs',
+    repo: 'YunLoad/Docs',
     repoLabel: 'GitHub',
     editLinks: true,
     editLinkText: '发现这个页面上有错误？来参与修改吧~',
