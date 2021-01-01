@@ -8,5 +8,5 @@ features:
   details: 这里是 YunLoad 的官方文档库，内容还在不断更新中，YunLoad 功能更新频率很高，欢迎经常来看看。
 - title: 更新很慢
   details: 由于人手不够，我们可能无法非常及时地更新这个页面，如果希望这个文档库可以更新更快一些的话，考虑加入我们吧~
-footer: © 2020 YunLoad
+footer: © 2021 YunLoad
 ---
